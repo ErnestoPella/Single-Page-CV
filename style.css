@@ -1,0 +1,18 @@
+*{
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h5{
+    color: rgb(25, 147, 25);
+}
+
+h4{
+    color: lightskyblue;
+}
+
+#personal-information{
+    margin-top: 40px;
+    border-top: solid;
+    width: 80%;
+}
